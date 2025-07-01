@@ -66,8 +66,8 @@ export const PALAVRAS_RUINS = new Set([
 "uma",
 "ver",
 "vocês",
-"vez"
-"por"
-"tudo"
+"vez",
+"por",
+"tudo",
 "dera"
     ]);
