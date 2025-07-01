@@ -235,5 +235,11 @@ export const PALAVRAS_RUINS = new Set([
 "chorar",
 "e",
 "não",
-"consegui"
+"consegui",
+"entende",
+"mim",
+"meu",
+"nada",
+"são",
+"dos",
     ]);
