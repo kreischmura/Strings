@@ -21,6 +21,7 @@ export const PALAVRAS_RUINS = new Set([
 "prova",
 "amizade",
 "se",
+"quem",
 "alguém",
 "levasse",
 "embora",
